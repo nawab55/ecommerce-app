@@ -1,6 +1,6 @@
 import React from 'react'
 import { Typography } from '@mui/material';
-import { Box } from 'mdi-material-ui';
+// import { Box } from 'mdi-material-ui';
 const CreateProduct = () => {
   return (
     <React.Fragment className=''>
